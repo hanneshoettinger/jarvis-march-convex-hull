@@ -1,0 +1,4 @@
+Timeformat: hh:mm:ss.ms
+Average Time for Jarvis Algorithm: 00:00:00.039
+Average Time for Jarvis Algorithm Special Case Line on X Axis: 00:00:00.390
+Average Time for Jarvis Algorithm Special Case Line on Y Axis: 00:00:00.427

@@ -17,7 +17,7 @@ Algorithm           |   Runtime [s] for n=2*10^6
 --------------------|------------------------------
 Random x and y      |       0.044
 Random x and constant y |   0.454
-Random y and constant x |   0.436#
+Random y and constant x |   0.436
 
 ## Visualization
 

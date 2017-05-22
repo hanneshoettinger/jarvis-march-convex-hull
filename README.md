@@ -8,6 +8,7 @@ Implementation of the Jarvi's March (Gift Wrapping) algorithm. Visualization (si
 
 Testmode:
 *ConvexHull.exe −−stepbystep 0 −−points 2000000*
+
 Visualization:
 *ConvexHull.exe −−stepbystep 1 −−points 40*
 
